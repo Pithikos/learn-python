@@ -24,3 +24,9 @@ Example:
     13
     14
     fizzbuzz
+
+
+Things to think about
+---------------------
+
+  * Testing
